@@ -5,3 +5,4 @@ cx-Freeze
 deep-translator
 SpeechRecognition
 google-transliteration-api
+flask
